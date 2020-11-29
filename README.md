@@ -1,3 +1,7 @@
+# Personal Shopping List
+
+This is the 5th project from the "React Projects" book from Packt Publishing.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
